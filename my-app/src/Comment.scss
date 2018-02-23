@@ -7,18 +7,6 @@
   padding: 20px;
   color: white;
 
-  .UserInfo{
-
-    .Avatar{
-
-    }
-
-    .UserInfo-name{
-
-    }
-
-  }
-
   .Comment-text{
 
   }
@@ -26,6 +14,19 @@
   .Comment-date{
 
   }
+}
 
+.UserInfo{
+  text-align: center;
+  border: 3px solid green;
+
+  .Avatar{
+
+  }
+
+  .UserInfo-name{
+    color: red;
+
+  }
 
 }

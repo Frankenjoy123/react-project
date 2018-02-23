@@ -1,0 +1,10 @@
+
+.btn_normal{
+  margin: 10px;
+  width: 100px;
+  padding: 10px;
+  color: blue;
+  background-color: antiquewhite;
+  border: 3px red solid;
+}
+
